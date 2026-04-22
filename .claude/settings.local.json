@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.amishcountrylodging.com)",
+      "WebFetch(domain:book.amishcountrylodging.com)",
+      "Bash(cmd /c \"dir \\\\\"C:\\\\Users\\\\Marcus Emler\\\\OneDrive - Wheels Up Entertainment\\\\Desktop\\\\Dev\\\\Berlin Woods\\\\\" /b\")"
+    ]
+  }
+}
